@@ -1,9 +1,11 @@
 
 # Alan Olea's Portfolio
 
-I am a student at Cal State Fullerton studying Electrical Engineering and I plan to graduate in 2029.
+My name is Alan Olea and I am a student at Cal State Fullerton. I am studying Electrical Engineering and I plan to graduate in 2029.
 
 ## Favorite CPSC 120L Labs
+
+My github link is https://github.com/AOlea07/AOlea07.github.io/blob/main/index.md
 
 * Lab 3, Part 1
 
